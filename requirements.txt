@@ -1,0 +1,14 @@
+# Core
+numpy
+pandas
+scikit-learn
+requests
+python-Levenshtein
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebooks
+jupyter
+ipykernel
